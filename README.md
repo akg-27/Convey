@@ -1,16 +1,22 @@
-# convey
+# Convey
 
-A new Flutter project.
+A modern social media app built with **Flutter**, **Firebase**, and **Supabase**.
 
-## Getting Started
+## 🚀 Features
+- User authentication (Firebase Auth)
+- Profile management (Firebase + Supabase Storage)
+- Image upload & display
+- Post creation & deletion
+- Search functionality
 
-This project is a starting point for a Flutter application.
+## 🧩 Tech Stack
+- Flutter (Frontend)
+- Firebase (Auth + Firestore)
+- Supabase (Storage)
+- Bloc (State Management)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Setup
+1. Clone this repository
+2. Run `flutter pub get`
+3. Configure your Firebase and Supabase keys
+4. Run `flutter run`
